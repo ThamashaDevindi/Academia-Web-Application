@@ -1,0 +1,15 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 17, 2023, 6:03:34 PM
+    Author     : Thamasha Devindi
+*/
+.dash{
+    background: url(../images/studentbg.jpg) no-repeat;
+    background-size: cover;
+    min-height: 95vh;
+    width: 100%
+}
