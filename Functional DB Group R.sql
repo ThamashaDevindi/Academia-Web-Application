@@ -221,15 +221,7 @@ CREATE TABLE `student` (
 
 INSERT INTO `student` (`Student_ID`, `Student_First_Name`, `Student_Last_Name`, `S_Gender`, `S_Address`, `S_username`, `S_Password`, `S_DOB`, `S_Tele_Phone`, `S_Talent`) VALUES
 (1, 'Sithara', 'Vithana', 'female', 'New Town, Anuradhapura.', 'sithara@gmail.com', '97e04bd8df867d480059f262486d58c1', '1997-04-30', '071 2548693', 'Dancing'),
-(2, 'Thamasha', 'Munasinghe', 'female', '355,Hospital Road, Kurunagala.', 'thamasha@gmail.com', '980b3801ef93b104f81058402b5c5c45', '2000-03-30', '071 3526741', 'Art'),
-(3, 'Rashini', 'Kulasinghe', 'female', '65/B, Temple Road, Ambalangoda.', 'rashini@gmail.com', 'e18daea13d766efea1165a393c1af813', '1999-05-18', '076 3960653', 'Singing'),
-(4, 'Pawani', 'Wickkramarachchi', 'female', 'New Town, Gampaha.', 'pawani@gmail.com', '3ee5754dfff7c21267fcfaaab896caae', '2000-12-14', '078 8754123', 'Dancing'),
-(5, 'Sumra', 'Jameela', 'female', 'Columbuthurai, Jaffna.', 'sumra@gmail.com', '97142c9eda2ecddbd0cc5d49d9c6ee98', '1998-04-25', '071 8453217', 'Art'),
-(6, 'Lahiru', 'Rathnayaka', 'male', 'Ampitiya, Kandy.', 'lahiru@gmail.com', '0e7cc611e4a931ceb383cec93b0bbc9c', '2000-06-28', '071 6547852', 'Sport'),
-(7, 'Tharushi', 'Sewwandi', 'female', 'Lunuwila, Wennappuwa.', 'tharushi@gmail.com', '784fd0139043e53250401c42eca0f588', '1998-08-30', '072 3514753', 'Drama'),
-(8, 'Anupa', 'Maduranga', 'male', 'Yodakandiya, Tissamaharamaya.', 'anupa@gmail.com', '65bae7dc67742e17fda9bfe1003f635e', '1999-05-03', '071 4565159', 'Sport'),
-(9, 'Hirun', 'Perera', 'male', '2nd Mile Post, Badulla.', 'hirun@gmail.com', 'bc4061776a91c3a467c20c1f9aa02d0d', '2000-07-20', '076 4758222', 'Sport'),
-(10, 'Kavindu', 'Dissanayaka', 'male', 'Edirisinghe Road, Colombo.', 'kavindu@gmail.com', '270166d5ef81a589bc8c5778e9ec83f6', '2000-01-03', '071 4758321', 'Sport');
+(2, 'Thamasha', 'Munasinghe', 'female', '355,Hospital Road, Kurunagala.', 'thamasha@gmail.com', '980b3801ef93b104f81058402b5c5c45', '2000-03-30', '071 3526741', 'Art');
 
 -- --------------------------------------------------------
 
